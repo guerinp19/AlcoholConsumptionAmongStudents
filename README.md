@@ -1,7 +1,7 @@
 # Alcohol Consumption Among Students
 
 ## About Us:
-Tyler Brannon - TylerBran
-Patrick Guerin - guerinp19
-Eric D’Souza - ericdagoat
+Tyler Brannon - TylerBran <br>
+Patrick Guerin - guerinp19<br>
+Eric D’Souza - ericdagoat<br>
 Mohammadreza Rahbar - MRR02
