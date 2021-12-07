@@ -1,7 +1,7 @@
 # Alcohol Consumption Among Students
 
 ## About Us:
-Group 15
+Group 15 <br>
 Tyler Brannon - TylerBran <br>
 Patrick Guerin - guerinp19<br>
 Eric D’Souza - ericdagoat<br>
