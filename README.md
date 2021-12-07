@@ -1,6 +1,7 @@
 # Alcohol Consumption Among Students
 
 ## About Us:
+Group 15
 Tyler Brannon - TylerBran <br>
 Patrick Guerin - guerinp19<br>
 Eric D’Souza - ericdagoat<br>
@@ -39,4 +40,4 @@ Mohammadreza Rahbar - MRR02
 This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this repository is original and that all appropriate resources are rightfully cited.”
 
 ## How to Run
-Clone this repository and CD into it. Then, run docker in this repository's directory and open "code_analysis.ipynb". After, run all code cells and it should work and show our findings.
+Clone this repository, and CD into it, and simply run the docker container.
